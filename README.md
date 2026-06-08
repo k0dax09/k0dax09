@@ -19,7 +19,6 @@
         <ul>
           <li>🌱 <b>Изучаю:</b> Python, Java, C++, Rust, Web </li>
           <li>🛠 <b>Создаю:</b> Инструменты автоматизации и Open-Source</li>
-          <li>🌐 <b>Браузер:</b> Libre Wolf</li>
           <li>⚙️ <b>Среда разработки:</b> VS Codium</li>
           <li>🐧 <b>Дистрибутив линукс:</b> <span style="color: #2ECC71; font-family: monospace; background: #222; padding: 2px 4px; border-radius: 3px;">I use Arch btw</span></li>
           <li>🎯 <b>Цель:</b> Senior Developer к 18 годам</li>
