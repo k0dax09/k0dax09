@@ -51,7 +51,7 @@
               <li>🐧 <b>Дистрибутив линукс:</b> <span style="color:#2ECC71; font-family:monospace; background:#222; padding:2px 4px; border-radius:3px;">I use Arch btw</span></li>
               <li>🎯 <b>Цель:</b> Senior Developer к 18 годам</li>
               <li>🏆 <b>Достижения:</b> 10+ завершённых проектов, из них 2 коммерческих</li>
-              <li>🕊️ <b>Важно:</b> я против любых войн, пожалуйста без политики в Issues/Pull Requests</li>
+              <li>🕊️ <b>Важно:</b> я против любых войн, пожалуйста без политики</li>
             </ul>
             <p align="center">
               <img src="https://visitor-badge.laobi.icu/badge?page_id=TTcorparation.TTcorparation&" />
@@ -109,7 +109,7 @@
               <li>🐧 <b>Linux distro:</b> <span style="color:#2ECC71; font-family:monospace; background:#222; padding:2px 4px; border-radius:3px;">I use Arch btw</span></li>
               <li>🎯 <b>Goal:</b> Senior Developer by 18</li>
               <li>🏆 <b>Achievements:</b> 10+ completed projects, 2 commercial</li>
-              <li>🕊️ <b>Note:</b> I'm against all wars, please no politics in Issues/Pull Requests</li>
+              <li>🕊️ <b>Note:</b> I'm against all wars, please no politics</li>
             </ul>
             <p align="center">
               <img src="https://visitor-badge.laobi.icu/badge?page_id=TTcorparation.TTcorparation&" />
