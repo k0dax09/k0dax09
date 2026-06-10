@@ -60,6 +60,6 @@
 
 <!-- ====== Crypto support ====== -->
 <p align="center">
-  <code>BTC: bc1qeevqymgd9uqe0f6z9jc4mtzuncenypuamxzlvw</code><br>
-  <code>SOL: FhGQBvTo1V5cFHv3nmXiwmTse8BG3FxvRZLPYkmLRudj</code>
+  🟡 <b>BTC:</b> <code style="color:#F7931A;">bc1qeevqymgd9uqe0f6z9jc4mtzuncenypuamxzlvw</code><br>
+  🟣 <b>SOL:</b> <code style="color:#9945FF;">FhGQBvTo1V5cFHv3nmXiwmTse8BG3FxvRZLPYkmLRudj</code>
 </p>
