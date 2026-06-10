@@ -5,7 +5,6 @@
   <p>
     <a href="https://t.me/+wQvM424Mn1UxNzBi"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25" /></a>
     <a href="https://ttcorparation.github.io"><img src="https://img.shields.io/badge/TT_Corporation-0A2463?style=for-the-badge&logo=github&logoColor=white" height="25" /></a>
-    <a href="https://dalink.to/ttcorparation"><img src="https://img.shields.io/badge/Support-F7931A?style=for-the-badge&logo=heart&logoColor=white" height="25" /></a>
   </p>
 </div>
 
@@ -55,4 +54,12 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Main_projects-Private-333?style=for-the-badge&logo=lock&logoColor=white" />
   <img src="https://img.shields.io/badge/Open_Source-WIP-blue?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<br/>
+
+<!-- ====== Crypto support ====== -->
+<p align="center">
+  <code>BTC: bc1qeevqymgd9uqe0f6z9jc4mtzuncenypuamxzlvw</code><br>
+  <code>SOL: FhGQBvTo1V5cFHv3nmXiwmTse8BG3FxvRZLPYkmLRudj</code>
 </p>
