@@ -1,139 +1,58 @@
-<!-- ====== Верхний баннер / Top banner ====== -->
+<!-- ====== Header & badges ====== -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" />
+  <h1>👨‍💻 Hey, I'm Tikhon!</h1>
+  <h3>15 y.o. | 7 years in dev | Founder of TT Corporation</h3>
+  <p>
+    <a href="https://t.me/+wQvM424Mn1UxNzBi"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25" /></a>
+    <a href="https://ttcorparation.github.io"><img src="https://img.shields.io/badge/TT_Corporation-0A2463?style=for-the-badge&logo=github&logoColor=white" height="25" /></a>
+    <a href="https://dalink.to/ttcorparation"><img src="https://img.shields.io/badge/Support-F7931A?style=for-the-badge&logo=heart&logoColor=white" height="25" /></a>
+  </p>
 </div>
 
 <br/>
 
-<!-- ====== Выбор языка / Language selector ====== -->
-<div align="center" style="margin: 20px 0;">
-  <kbd style="font-size:18px; padding:8px 20px; background:#1e1e1e; border:2px solid #555; border-radius:10px; margin:0 10px;">
-    🌍 Выберите язык / Choose language
-  </kbd>
-  <p style="font-size:12px; color:#888; margin-top:8px;">
-    <em>Открывайте по одному / Open one at a time</em>
-  </p>
-</div>
+<!-- ====== Main content: About + Stack ====== -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🚀 About me</h3>
+      <ul>
+        <li>🗣️ <b>Languages:</b> Russian & English</li>
+        <li>🌱 <b>Learning:</b> Python, Java, C++, Rust, Web, NixOS</li>
+        <li>🛠 <b>Building:</b> automation tools & Open-Source</li>
+        <li>⚙️ <b>IDE:</b> VS Codium</li>
+        <li>🐧 <b>Linux distro:</b> <code style="color:#2ECC71;">I use Arch btw</code></li>
+        <li>🎯 <b>Goal:</b> Senior Developer by 18</li>
+        <li>🏆 <b>Achievements:</b> 10+ completed projects, 2 commercial</li>
+        <li>🕊️ <b>Note:</b> I'm against all wars, please no politics</li>
+      </ul>
+      <p align="center">
+        <img src="https://komarev.com/ghpvc/?username=TTcorparation&label=Visitors&color=blueviolet&style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛠 My stack</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=python,js,cpp,java,html,css&perline=10" />
+      </p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=postgres,linux,git,github,vscode,pycharm&perline=10" />
+      </p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=rust,go,fastapi,sqlite,docker&perline=10" />
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" height="25" />
+        <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" height="25" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-<!-- Блок с кнопками-переключателями / Switch buttons block -->
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<br/>
 
-  <!-- ====== Русская версия / Russian version ====== -->
-  <!-- display: inline-block не даёт details растянуться на всю ширину / prevents stretching -->
-  <details style="display: inline-block;">
-    <!-- list-style-type: none убирает стандартный треугольник (работает в GitHub) / removes default marker -->
-    <summary style="cursor:pointer; font-size:20px; font-weight:bold; padding:10px 30px; border:2px solid #555; border-radius:12px; background:#1e1e1e; color:#eee; list-style-type: none; text-align:center; white-space:nowrap;">
-      🇷🇺 Русский
-    </summary>
-    <br/>
-    <div class="ru-content">
-      <!-- ====== РУССКИЙ КОНТЕНТ / RUSSIAN CONTENT ====== -->
-      <div align="center">
-        <h1>👨‍💻 Привет, я Тихон!</h1>
-        <h3>15 лет | 7 лет в dev | Founder of TT Corporation</h3>
-        <p>
-          <a href="https://t.me/+wQvM424Mn1UxNzBi"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25" /></a>
-          <a href="https://ttcorparation.github.io"><img src="https://img.shields.io/badge/TT_Corporation-0A2463?style=for-the-badge&logo=github&logoColor=white" height="25" /></a>
-          <a href="https://dalink.to/ttcorparation"><img src="https://img.shields.io/badge/Поддержать-F7931A?style=for-the-badge&logo=heart&logoColor=white" height="25" /></a>
-        </p>
-        <hr>
-      </div>
-      <table>
-        <tr>
-          <td width="50%" valign="top">
-            <h3 align="center">🚀 Обо мне</h3>
-            <ul>
-              <li>🗣️ <b>Владею:</b> русским и английским</li>
-              <li>🌱 <b>Изучаю:</b> Python, Java, C++, Rust, Web</li>
-              <li>🛠 <b>Создаю:</b> инструменты автоматизации и Open-Source</li>
-              <li>🌐 <b>Браузер:</b> Libre Wolf</li>
-              <li>⚙️ <b>Среда разработки:</b> VS Codium</li>
-              <li>🐧 <b>Дистрибутив линукс:</b> <span style="color:#2ECC71; font-family:monospace; background:#222; padding:2px 4px; border-radius:3px;">I use Arch btw</span></li>
-              <li>🎯 <b>Цель:</b> Senior Developer к 18 годам</li>
-              <li>🏆 <b>Достижения:</b> 10+ завершённых проектов, из них 2 коммерческих</li>
-              <li>🕊️ <b>Важно:</b> я против любых войн, пожалуйста без политики</li>
-            </ul>
-            <p align="center">
-              <img src="https://visitor-badge.laobi.icu/badge?page_id=TTcorparation.TTcorparation&" />
-            </p>
-          </td>
-          <td width="50%" valign="top">
-            <h3 align="center">🛠 Мой стек</h3>
-            <p align="center">
-              <img src="https://skillicons.dev/icons?i=python,js,cpp,java,html,css&perline=10" />
-            </p>
-            <p align="center">
-              <img src="https://skillicons.dev/icons?i=postgres,linux,git,github,vscode,pycharm&perline=10" />
-            </p>
-            <p align="center">
-              <img src="https://skillicons.dev/icons?i=rust,go,fastapi,sqlite,docker&perline=10" />
-            </p>
-          </td>
-        </tr>
-      </table>
-      <br/>
-      <div align="center">
-        <code>"Код — это поэзия технологий. В TT Corporation мы пишем стихи на языках программирования."</code>
-      </div>
-    </div>
-  </details>
-
-  <!-- ====== Английская версия / English version ====== -->
-  <details style="display: inline-block;">
-    <summary style="cursor:pointer; font-size:20px; font-weight:bold; padding:10px 30px; border:2px solid #555; border-radius:12px; background:#1e1e1e; color:#eee; list-style-type: none; text-align:center; white-space:nowrap;">
-      🇬🇧 English
-    </summary>
-    <br/>
-    <div class="en-content">
-      <!-- ====== ENGLISH CONTENT ====== -->
-      <div align="center">
-        <h1>👨‍💻 Hey, I'm Tikhon!</h1>
-        <h3>15 y.o. | 7 years in dev | Founder of TT Corporation</h3>
-        <p>
-          <a href="https://t.me/+wQvM424Mn1UxNzBi"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25" /></a>
-          <a href="https://ttcorparation.github.io"><img src="https://img.shields.io/badge/TT_Corporation-0A2463?style=for-the-badge&logo=github&logoColor=white" height="25" /></a>
-          <a href="https://dalink.to/ttcorparation"><img src="https://img.shields.io/badge/Support-F7931A?style=for-the-badge&logo=heart&logoColor=white" height="25" /></a>
-        </p>
-        <hr>
-      </div>
-      <table>
-        <tr>
-          <td width="50%" valign="top">
-            <h3 align="center">🚀 About me</h3>
-            <ul>
-              <li>🗣️ <b>Languages:</b> Russian & English</li>
-              <li>🌱 <b>Learning:</b> Python, Java, C++, Rust, Web</li>
-              <li>🛠 <b>Building:</b> automation tools & Open-Source</li>
-              <li>🌐 <b>Browser:</b> Libre Wolf</li>
-              <li>⚙️ <b>IDE:</b> VS Codium</li>
-              <li>🐧 <b>Linux distro:</b> <span style="color:#2ECC71; font-family:monospace; background:#222; padding:2px 4px; border-radius:3px;">I use Arch btw</span></li>
-              <li>🎯 <b>Goal:</b> Senior Developer by 18</li>
-              <li>🏆 <b>Achievements:</b> 10+ completed projects, 2 commercial</li>
-              <li>🕊️ <b>Note:</b> I'm against all wars, please no politics</li>
-            </ul>
-            <p align="center">
-              <img src="https://visitor-badge.laobi.icu/badge?page_id=TTcorparation.TTcorparation&" />
-            </p>
-          </td>
-          <td width="50%" valign="top">
-            <h3 align="center">🛠 My stack</h3>
-            <p align="center">
-              <img src="https://skillicons.dev/icons?i=python,js,cpp,java,html,css&perline=10" />
-            </p>
-            <p align="center">
-              <img src="https://skillicons.dev/icons?i=postgres,linux,git,github,vscode,pycharm&perline=10" />
-            </p>
-            <p align="center">
-              <img src="https://skillicons.dev/icons?i=rust,go,fastapi,sqlite,docker&perline=10" />
-            </p>
-          </td>
-        </tr>
-      </table>
-      <br/>
-      <div align="center">
-        <code>"Code is the poetry of technology. At TT Corporation, we write verses in programming languages."</code>
-      </div>
-    </div>
-  </details>
-
-</div>
+<!-- ====== Project visibility badges ====== -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Main_projects-Private-333?style=for-the-badge&logo=lock&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open_Source-WIP-blue?style=for-the-badge&logo=github&logoColor=white" />
+</p>
